@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5001";
+const API_URL = "https://ai-chat-backend-itoi.onrender.com/";
 
 async function uploadFile() {
   const fileInput = document.getElementById("fileInput");
